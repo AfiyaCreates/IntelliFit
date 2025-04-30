@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🏋️‍♂️ AI Pose and Reps Tracker
 
@@ -87,3 +88,6 @@ No special configuration needed. Just ensure:
 - Webcam is connected and accessible
 - Python 3.8+ is installed
 - All dependencies are installed
+=======
+# IntelliFit
+>>>>>>> 57f6ffb0e3902070e0e3307d9373545700d104dc
